@@ -1,4 +1,4 @@
-# Yosef Tutian's Developer Portfolio
+# Yosef Tutian
 
 Welcome to my GitHub repository! This is where I showcase my projects and contributions as a software developer.
 
