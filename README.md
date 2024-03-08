@@ -1,59 +1,42 @@
 # Your Name - Software Developer Portfolio
 
 Welcome to my GitHub repository! This repository serves as my software developer portfolio where I showcase my projects and contributions.
+About
+Personal Information:
 
-## About Me
+Name: Yosef Tutian
 
-I am a passionate and skilled software developer with expertise in [mention your primary programming languages/technologies]. I love creating efficient and scalable solutions to real-world problems. This portfolio is a glimpse into my coding journey.
+Age: 27
 
-## Projects
+Phone: 054-671-6556 📞
 
-### Project 1: Project Name
+Objective:
 
-Brief description of the project. Highlight key features and technologies used.
 
-- [GitHub Repository](link-to-repository)
-- [Live Demo](link-to-live-demo)
+Enthusiastic and adaptable individual currently pursuing a Software Technician certification at MeGo – Haredi Hi-Tech Training. Eager to leverage my skills and commitment to learning in a software development role.
 
-### Project 2: Project Name
+Education:
 
-Brief description of the project. Highlight key features and technologies used.
+Currently enrolled in "Software Technician" studies at MeGo – Haredi Hi-Tech Training. Previous academic background includes 6 years of study in a yeshiva and a lot of self-study through different courses. 📚
 
-- [GitHub Repository](link-to-repository)
-- [Live Demo](link-to-live-demo)
+Professional Experience:
 
-### ... (Add more projects as needed)
+I have worked for the last five years in the field of marketing and sales.
 
-## Skills
+Skills:
 
-- List your technical skills (e.g., programming languages, frameworks, tools).
-- Highlight any certifications or relevant achievements.
+In-depth knowledge gained through ongoing software development studies. 🧠
 
-## Education
+Open-minded and willing to learn new technologies for professional advancement. 🚀
 
-- Mention your educational background, degrees, and any relevant courses.
+Contact Me:
 
-## Contact
+Phone/WhatsApp: 054-671-6556 📞
 
-- Provide your email address or other preferred means of contact.
-- Include links to your LinkedIn profile, personal website, or other professional profiles.
+Email: yoseftutian@gmail.com ✉️
 
-## Resume
+GitHub: https://github.com/yoseftutian 💻
 
-- You may include a link to your detailed resume if available.
+Twitter: https://twitter.com/tutianyosef🕊️
 
-## Blog
-
-- If you have a technical blog, you can include a link to it here.
-
-## Contributing
-
-If you find any issues or have suggestions for improvement, feel free to open an issue or submit a pull request. Contributions are welcome!
-
-## License
-
-This portfolio is open-source and available under the [MIT License](LICENSE).
-
----
-
-Thank you for visiting my portfolio! I am excited to connect with fellow developers and explore new opportunities. Feel free to reach out if you have any questions or collaboration ideas.
+I live in Nof Hagalil and am available through phone, WhatsApp, email, or LinkedIn. I am excited about the opportunity to contribute to innovative projects and further develop my skills in a software development position. 🌟
