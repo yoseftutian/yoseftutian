@@ -27,6 +27,5 @@ I have worked in the field of marketing and sales for the last five years.
 - Phone/WhatsApp: 054-671-6556 📞
 - Email: yoseftutian@gmail.com ✉️
 - GitHub: https://github.com/yoseftutian 💻
-- Twitter: https://twitter.com/tutianyosef 🕊️
 
 I live in Nof Hagalil and am available through phone, WhatsApp, email, or LinkedIn. I am excited about the opportunity to contribute to innovative projects and further develop my skills in a software development position. 🌟
